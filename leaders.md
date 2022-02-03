@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Jaswanth Jaswanthravichandra](mailto:jaswanth.jaswanthravichandra@owasp.org)
+* [Ranjith Sengottuvel Pooranesan](mailto:ranjith.sengottuvelpooranesan@owasp.org)
