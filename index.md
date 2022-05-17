@@ -9,9 +9,9 @@ meetup-group:
 ---
 
 <div style='color:black;'>
-
+<p>
 OWASP Tiruchirappalli was founded on February 2022. We provide security conferences and talks to spread the awareness about cybersecurity to the people's here. We have planned to conduct numerous meetups, security conferences and talks about cybersecurity to the rural people to spread awareness about cybersecurity.
-
+</p>
 
 ## Welcome
 
