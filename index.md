@@ -53,5 +53,5 @@ Would you like to speak on the upcoming OWASP Tiruchirappalli Webinar?
 
 1.<a href="https://t.me/owasptrichychapter">Telegram</a>
   
-<a class="fab fa-instagram" href="https://t.me/owasptrichychapter"></a>
+<a href="https://t.me/owasptrichychapter">class="fab fa-instagram" </a>
 
