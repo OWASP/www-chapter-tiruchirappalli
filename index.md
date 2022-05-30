@@ -54,4 +54,4 @@ Would you like to speak on the upcoming OWASP Tiruchirappalli Webinar?
 1. <a href="https://t.me/owasptrichychapter">Telegram</a>
 2. <a href="https://instagram.com/owasp.trichy?igshid=YmMyMTA2M2Y=">Instagram</a>
 3. <a href="">Youtube</a>
-
+<a href="https://www.youtube.com/user/OWASPGLOBAL" aria-label="youtube account" target="_blank" rel="noopener noreferrer"><i class="fa fa-lg fa-youtube-square"></i></a>
