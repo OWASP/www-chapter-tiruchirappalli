@@ -3,6 +3,7 @@
 layout: col-sidebar
 title: OWASP Tiruchirappalli
 region: Asia
+country: India
 meetup-group: https://lnkd.in/gx6u4WWT
 
 ---
@@ -21,7 +22,7 @@ OWASP provides speakers to Institution of Engineers for Wednesday technical talk
   
 <h2>Participation</h2>
 <p>
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
 Chapters are led by local leaders. Financial contributions should only be made online using the authorized online donation button. 
 
